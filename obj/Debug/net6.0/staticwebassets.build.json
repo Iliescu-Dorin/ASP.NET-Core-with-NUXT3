@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5TgEgP2tvRnfeLtPgtvu/TKI7Rk7XYmcd9VA76kDPDw=",
+  "Source": "Medium",
+  "BasePath": "_content/Medium",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Medium\\wwwroot",
+      "Source": "Medium",
+      "ContentRoot": "C:\\Users\\mihail-dorin.iliescu\\OneDrive - Accenture\\Documents\\Medium\\wwwroot\\",
+      "BasePath": "_content/Medium",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

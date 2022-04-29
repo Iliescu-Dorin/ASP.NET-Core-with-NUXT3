@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:3002",
+"LaunchCommand": "npm run start",
+"WorkingDirectory": "C:\\Users\\mihail-dorin.iliescu\\OneDrive - Accenture\\Documents\\Medium\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

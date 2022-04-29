@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHDTleBUch108rUdgA3i9Zf8P83zG2JM/2ivRaJOFndRO3It6zyGSCGoPCF2OKszu/UTvBSdVhX82+Fvmxn9lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mihail-dorin.iliescu\\OneDrive - Accenture\\Documents\\Medium\\Medium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.4\\microsoft.aspnetcore.spaproxy.6.0.4.nupkg.sha512",
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\microsoft.typescript.msbuild\\4.6.4\\microsoft.typescript.msbuild.4.6.4.nupkg.sha512",
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mihail-dorin.iliescu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

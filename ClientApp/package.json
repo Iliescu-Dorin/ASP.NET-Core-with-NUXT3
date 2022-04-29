@@ -1,0 +1,17 @@
+{
+    "name": "SPA",
+    "version": "0.1.0",
+    "private": true,
+    "proxy": "https://localhost:44395",
+    "type": "module",
+    "scripts": {
+        "start": "nuxt dev --https --ssl-key %APPDATA%\\ASP.NET\\https\\SPA.key --ssl-cert  %APPDATA%\\ASP.NET\\https\\SPA.pem",
+        "build": "nuxt build",
+        "dev": "nuxt dev --https",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview"
+    },
+    "devDependencies": {
+        "nuxt": "3.0.0-rc.1"
+    }
+}
